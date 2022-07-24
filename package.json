@@ -1,0 +1,20 @@
+{
+  "name": "randomaterial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twpDiogenes/randoMaterial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twpDiogenes/randoMaterial/issues"
+  },
+  "homepage": "https://github.com/twpDiogenes/randoMaterial#readme"
+}
